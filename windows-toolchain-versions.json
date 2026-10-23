@@ -209,6 +209,9 @@
   "3.2.10": {
     "x64": "https://github.com/ruby/setup-msys2-gcc/releases/latest/download/msys2-ucrt64.7z"
   },
+  "3.2.11": {
+    "x64": "https://github.com/ruby/setup-msys2-gcc/releases/latest/download/msys2-ucrt64.7z"
+  },
   "3.3.0": {
     "x64": "https://github.com/ruby/setup-msys2-gcc/releases/latest/download/msys2-ucrt64-mingw-w64@r688-gcc@14.7z"
   },
@@ -240,6 +243,12 @@
     "x64": "https://github.com/ruby/setup-msys2-gcc/releases/latest/download/msys2-ucrt64.7z"
   },
   "3.3.10": {
+    "x64": "https://github.com/ruby/setup-msys2-gcc/releases/latest/download/msys2-ucrt64.7z"
+  },
+  "3.3.11": {
+    "x64": "https://github.com/ruby/setup-msys2-gcc/releases/latest/download/msys2-ucrt64.7z"
+  },
+  "3.3.12": {
     "x64": "https://github.com/ruby/setup-msys2-gcc/releases/latest/download/msys2-ucrt64.7z"
   },
   "3.4.1": {
@@ -274,11 +283,47 @@
     "arm64": "https://github.com/ruby/setup-msys2-gcc/releases/latest/download/msys2-clangarm64.7z",
     "x64": "https://github.com/ruby/setup-msys2-gcc/releases/latest/download/msys2-ucrt64.7z"
   },
+  "3.4.9": {
+    "arm64": "https://github.com/ruby/setup-msys2-gcc/releases/latest/download/msys2-clangarm64.7z",
+    "x64": "https://github.com/ruby/setup-msys2-gcc/releases/latest/download/msys2-ucrt64.7z"
+  },
+  "3.4.10": {
+    "arm64": "https://github.com/ruby/setup-msys2-gcc/releases/latest/download/msys2-clangarm64.7z",
+    "x64": "https://github.com/ruby/setup-msys2-gcc/releases/latest/download/msys2-ucrt64.7z"
+  },
+  "3.4.11": {
+    "arm64": "https://github.com/ruby/setup-msys2-gcc/releases/latest/download/msys2-clangarm64.7z",
+    "x64": "https://github.com/ruby/setup-msys2-gcc/releases/latest/download/msys2-ucrt64.7z"
+  },
   "4.0.0": {
     "arm64": "https://github.com/ruby/setup-msys2-gcc/releases/latest/download/msys2-clangarm64.7z",
     "x64": "https://github.com/ruby/setup-msys2-gcc/releases/latest/download/msys2-ucrt64.7z"
   },
   "4.0.1": {
+    "arm64": "https://github.com/ruby/setup-msys2-gcc/releases/latest/download/msys2-clangarm64.7z",
+    "x64": "https://github.com/ruby/setup-msys2-gcc/releases/latest/download/msys2-ucrt64.7z"
+  },
+  "4.0.2": {
+    "arm64": "https://github.com/ruby/setup-msys2-gcc/releases/latest/download/msys2-clangarm64.7z",
+    "x64": "https://github.com/ruby/setup-msys2-gcc/releases/latest/download/msys2-ucrt64.7z"
+  },
+  "4.0.3": {
+    "arm64": "https://github.com/ruby/setup-msys2-gcc/releases/latest/download/msys2-clangarm64.7z",
+    "x64": "https://github.com/ruby/setup-msys2-gcc/releases/latest/download/msys2-ucrt64.7z"
+  },
+  "4.0.4": {
+    "arm64": "https://github.com/ruby/setup-msys2-gcc/releases/latest/download/msys2-clangarm64.7z",
+    "x64": "https://github.com/ruby/setup-msys2-gcc/releases/latest/download/msys2-ucrt64.7z"
+  },
+  "4.0.5": {
+    "arm64": "https://github.com/ruby/setup-msys2-gcc/releases/latest/download/msys2-clangarm64.7z",
+    "x64": "https://github.com/ruby/setup-msys2-gcc/releases/latest/download/msys2-ucrt64.7z"
+  },
+  "4.0.6": {
+    "arm64": "https://github.com/ruby/setup-msys2-gcc/releases/latest/download/msys2-clangarm64.7z",
+    "x64": "https://github.com/ruby/setup-msys2-gcc/releases/latest/download/msys2-ucrt64.7z"
+  },
+  "4.0.7": {
     "arm64": "https://github.com/ruby/setup-msys2-gcc/releases/latest/download/msys2-clangarm64.7z",
     "x64": "https://github.com/ruby/setup-msys2-gcc/releases/latest/download/msys2-ucrt64.7z"
   },

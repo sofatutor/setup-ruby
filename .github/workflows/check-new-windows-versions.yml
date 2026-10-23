@@ -8,7 +8,7 @@ jobs:
   check_windows_versions:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v6
+    - uses: actions/checkout@v7
       with:
         fetch-depth: 0
 
@@ -35,7 +35,7 @@ jobs:
         body: |
           Automated PR from the check-new-windows-versions.yml workflow.
 
-          @eregon @larskanis Please merge this PR if the diff is correct.
+          @eregon @MSP-Greg @ntkme @flavorjones @larskanis @headius Please merge this PR if the diff is correct.
           And then release setup-ruby by [running the release workflow](https://github.com/ruby/setup-ruby/actions/workflows/release.yml).
         branch: windows
         delete-branch: true
